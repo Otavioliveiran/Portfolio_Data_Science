@@ -3,7 +3,7 @@
 </p>
 
 # Otávio de Oliveira
-<sub>*Data Scientist* and Space Operations Center</sub>
+<sub>*Data Scientist* and Environmental Scientist</sub>
 
 As a data scientist and environmental scientist, I combine analytical skills, ability to work in a team and decision making.
 
